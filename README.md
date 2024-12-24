@@ -1,4 +1,4 @@
-# Keepinit 🛠️
+# Keep Init 🛠️
 
 **Keepinit** is a CLI tool designed to log your installation and command-line processes into organized session-based log files. It helps you keep track of your terminal activities for better documentation and troubleshooting.
 
